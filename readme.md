@@ -7,5 +7,5 @@
 print("hello git world")
 
 for i in range:
-    print("I love python")
+    print("I sorta kinda love python")
 ```
